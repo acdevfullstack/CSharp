@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\tiposreferencias\obj\Debug\net6.0\tiposreferencias.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\tiposreferencias\obj\Debug\net6.0\tiposreferencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\tiposreferencias\obj\Debug\net6.0\tiposreferencias.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\tiposreferencias\obj\Debug\net6.0\tiposreferencias.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\tiposreferencias\obj\Debug\net6.0\tiposreferencias.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\tiposreferencias\bin\Debug\net6.0\tiposreferencias.exe
+C:\01- BKP\Devops\CSharp\Exemplos\tiposreferencias\bin\Debug\net6.0\tiposreferencias.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\tiposreferencias\bin\Debug\net6.0\tiposreferencias.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\tiposreferencias\bin\Debug\net6.0\tiposreferencias.dll
+C:\01- BKP\Devops\CSharp\Exemplos\tiposreferencias\bin\Debug\net6.0\tiposreferencias.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\tiposreferencias\obj\Debug\net6.0\tiposreferencias.dll
+C:\01- BKP\Devops\CSharp\Exemplos\tiposreferencias\obj\Debug\net6.0\refint\tiposreferencias.dll
+C:\01- BKP\Devops\CSharp\Exemplos\tiposreferencias\obj\Debug\net6.0\tiposreferencias.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\tiposreferencias\obj\Debug\net6.0\tiposreferencias.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\tiposreferencias\obj\Debug\net6.0\ref\tiposreferencias.dll

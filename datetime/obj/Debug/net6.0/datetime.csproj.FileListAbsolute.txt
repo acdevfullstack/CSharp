@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\datetime\bin\Debug\net6.0\datetime.exe
+C:\01- BKP\Devops\CSharp\Exemplos\datetime\bin\Debug\net6.0\datetime.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\datetime\bin\Debug\net6.0\datetime.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\datetime\bin\Debug\net6.0\datetime.dll
+C:\01- BKP\Devops\CSharp\Exemplos\datetime\bin\Debug\net6.0\datetime.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\datetime\obj\Debug\net6.0\datetime.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\datetime\obj\Debug\net6.0\datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\datetime\obj\Debug\net6.0\datetime.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\datetime\obj\Debug\net6.0\datetime.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\datetime\obj\Debug\net6.0\datetime.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\datetime\obj\Debug\net6.0\datetime.dll
+C:\01- BKP\Devops\CSharp\Exemplos\datetime\obj\Debug\net6.0\refint\datetime.dll
+C:\01- BKP\Devops\CSharp\Exemplos\datetime\obj\Debug\net6.0\datetime.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\datetime\obj\Debug\net6.0\datetime.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\datetime\obj\Debug\net6.0\ref\datetime.dll

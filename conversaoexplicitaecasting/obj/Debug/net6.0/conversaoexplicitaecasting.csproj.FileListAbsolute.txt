@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\conversaoexplicitaecasting\bin\Debug\net6.0\conversaoexplicitaecasting.exe
+C:\01- BKP\Devops\CSharp\Exemplos\conversaoexplicitaecasting\bin\Debug\net6.0\conversaoexplicitaecasting.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\conversaoexplicitaecasting\bin\Debug\net6.0\conversaoexplicitaecasting.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\conversaoexplicitaecasting\bin\Debug\net6.0\conversaoexplicitaecasting.dll
+C:\01- BKP\Devops\CSharp\Exemplos\conversaoexplicitaecasting\bin\Debug\net6.0\conversaoexplicitaecasting.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\conversaoexplicitaecasting\obj\Debug\net6.0\conversaoexplicitaecasting.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\conversaoexplicitaecasting\obj\Debug\net6.0\conversaoexplicitaecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\conversaoexplicitaecasting\obj\Debug\net6.0\conversaoexplicitaecasting.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\conversaoexplicitaecasting\obj\Debug\net6.0\conversaoexplicitaecasting.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\conversaoexplicitaecasting\obj\Debug\net6.0\conversaoexplicitaecasting.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\conversaoexplicitaecasting\obj\Debug\net6.0\conversaoexplicitaecasting.dll
+C:\01- BKP\Devops\CSharp\Exemplos\conversaoexplicitaecasting\obj\Debug\net6.0\refint\conversaoexplicitaecasting.dll
+C:\01- BKP\Devops\CSharp\Exemplos\conversaoexplicitaecasting\obj\Debug\net6.0\conversaoexplicitaecasting.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\conversaoexplicitaecasting\obj\Debug\net6.0\conversaoexplicitaecasting.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\conversaoexplicitaecasting\obj\Debug\net6.0\ref\conversaoexplicitaecasting.dll

@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\bin\Debug\net6.0\resolprobloo.exe
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\bin\Debug\net6.0\resolprobloo.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\bin\Debug\net6.0\resolprobloo.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\bin\Debug\net6.0\resolprobloo.dll
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\bin\Debug\net6.0\resolprobloo.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\resolprobloo.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\resolprobloo.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\resolprobloo.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\resolprobloo.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\resolprobloo.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\resolprobloo.dll
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\refint\resolprobloo.dll
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\resolprobloo.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\resolprobloo.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\ref\resolprobloo.dll

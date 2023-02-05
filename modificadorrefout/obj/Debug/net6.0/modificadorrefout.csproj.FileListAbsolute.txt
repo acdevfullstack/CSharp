@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\modificadorrefout\bin\Debug\net6.0\modificadorrefout.exe
+C:\01- BKP\Devops\CSharp\Exemplos\modificadorrefout\bin\Debug\net6.0\modificadorrefout.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\modificadorrefout\bin\Debug\net6.0\modificadorrefout.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\modificadorrefout\bin\Debug\net6.0\modificadorrefout.dll
+C:\01- BKP\Devops\CSharp\Exemplos\modificadorrefout\bin\Debug\net6.0\modificadorrefout.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\modificadorrefout\obj\Debug\net6.0\modificadorrefout.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\modificadorrefout\obj\Debug\net6.0\modificadorrefout.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\modificadorrefout\obj\Debug\net6.0\modificadorrefout.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\modificadorrefout\obj\Debug\net6.0\modificadorrefout.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\modificadorrefout\obj\Debug\net6.0\modificadorrefout.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\modificadorrefout\obj\Debug\net6.0\modificadorrefout.dll
+C:\01- BKP\Devops\CSharp\Exemplos\modificadorrefout\obj\Debug\net6.0\refint\modificadorrefout.dll
+C:\01- BKP\Devops\CSharp\Exemplos\modificadorrefout\obj\Debug\net6.0\modificadorrefout.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\modificadorrefout\obj\Debug\net6.0\modificadorrefout.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\modificadorrefout\obj\Debug\net6.0\ref\modificadorrefout.dll

@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\checkliststrings\bin\Debug\net6.0\checkliststrings.exe
+C:\01- BKP\Devops\CSharp\Exemplos\checkliststrings\bin\Debug\net6.0\checkliststrings.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\checkliststrings\bin\Debug\net6.0\checkliststrings.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\checkliststrings\bin\Debug\net6.0\checkliststrings.dll
+C:\01- BKP\Devops\CSharp\Exemplos\checkliststrings\bin\Debug\net6.0\checkliststrings.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\checkliststrings\obj\Debug\net6.0\checkliststrings.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\checkliststrings\obj\Debug\net6.0\checkliststrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\checkliststrings\obj\Debug\net6.0\checkliststrings.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\checkliststrings\obj\Debug\net6.0\checkliststrings.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\checkliststrings\obj\Debug\net6.0\checkliststrings.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\checkliststrings\obj\Debug\net6.0\checkliststrings.dll
+C:\01- BKP\Devops\CSharp\Exemplos\checkliststrings\obj\Debug\net6.0\refint\checkliststrings.dll
+C:\01- BKP\Devops\CSharp\Exemplos\checkliststrings\obj\Debug\net6.0\checkliststrings.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\checkliststrings\obj\Debug\net6.0\checkliststrings.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\checkliststrings\obj\Debug\net6.0\ref\checkliststrings.dll

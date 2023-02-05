@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\bin\Debug\net6.0\aula01.exe
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\bin\Debug\net6.0\aula01.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\bin\Debug\net6.0\aula01.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\bin\Debug\net6.0\aula01.dll
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\bin\Debug\net6.0\aula01.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\aula01.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\aula01.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\aula01.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\aula01.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\aula01.dll
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\refint\aula01.dll
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\aula01.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\aula01.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\ref\aula01.dll

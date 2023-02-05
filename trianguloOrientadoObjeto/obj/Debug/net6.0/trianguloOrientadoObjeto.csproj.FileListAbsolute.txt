@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\trianguloOrientadoObjeto\obj\Debug\net6.0\trianguloOrientadoObjeto.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\trianguloOrientadoObjeto\obj\Debug\net6.0\trianguloOrientadoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\trianguloOrientadoObjeto\obj\Debug\net6.0\trianguloOrientadoObjeto.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\trianguloOrientadoObjeto\obj\Debug\net6.0\trianguloOrientadoObjeto.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\trianguloOrientadoObjeto\obj\Debug\net6.0\trianguloOrientadoObjeto.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\trianguloOrientadoObjeto\bin\Debug\net6.0\trianguloOrientadoObjeto.exe
+C:\01- BKP\Devops\CSharp\Exemplos\trianguloOrientadoObjeto\bin\Debug\net6.0\trianguloOrientadoObjeto.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\trianguloOrientadoObjeto\bin\Debug\net6.0\trianguloOrientadoObjeto.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\trianguloOrientadoObjeto\bin\Debug\net6.0\trianguloOrientadoObjeto.dll
+C:\01- BKP\Devops\CSharp\Exemplos\trianguloOrientadoObjeto\bin\Debug\net6.0\trianguloOrientadoObjeto.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\trianguloOrientadoObjeto\obj\Debug\net6.0\trianguloOrientadoObjeto.dll
+C:\01- BKP\Devops\CSharp\Exemplos\trianguloOrientadoObjeto\obj\Debug\net6.0\refint\trianguloOrientadoObjeto.dll
+C:\01- BKP\Devops\CSharp\Exemplos\trianguloOrientadoObjeto\obj\Debug\net6.0\trianguloOrientadoObjeto.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\trianguloOrientadoObjeto\obj\Debug\net6.0\trianguloOrientadoObjeto.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\trianguloOrientadoObjeto\obj\Debug\net6.0\ref\trianguloOrientadoObjeto.dll

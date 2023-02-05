@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\propriedadesoperdatetime\bin\Debug\net6.0\propriedadesoperdatetime.exe
+C:\01- BKP\Devops\CSharp\Exemplos\propriedadesoperdatetime\bin\Debug\net6.0\propriedadesoperdatetime.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\propriedadesoperdatetime\bin\Debug\net6.0\propriedadesoperdatetime.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\propriedadesoperdatetime\bin\Debug\net6.0\propriedadesoperdatetime.dll
+C:\01- BKP\Devops\CSharp\Exemplos\propriedadesoperdatetime\bin\Debug\net6.0\propriedadesoperdatetime.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\propriedadesoperdatetime\obj\Debug\net6.0\propriedadesoperdatetime.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\propriedadesoperdatetime\obj\Debug\net6.0\propriedadesoperdatetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\propriedadesoperdatetime\obj\Debug\net6.0\propriedadesoperdatetime.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\propriedadesoperdatetime\obj\Debug\net6.0\propriedadesoperdatetime.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\propriedadesoperdatetime\obj\Debug\net6.0\propriedadesoperdatetime.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\propriedadesoperdatetime\obj\Debug\net6.0\propriedadesoperdatetime.dll
+C:\01- BKP\Devops\CSharp\Exemplos\propriedadesoperdatetime\obj\Debug\net6.0\refint\propriedadesoperdatetime.dll
+C:\01- BKP\Devops\CSharp\Exemplos\propriedadesoperdatetime\obj\Debug\net6.0\propriedadesoperdatetime.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\propriedadesoperdatetime\obj\Debug\net6.0\propriedadesoperdatetime.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\propriedadesoperdatetime\obj\Debug\net6.0\ref\propriedadesoperdatetime.dll

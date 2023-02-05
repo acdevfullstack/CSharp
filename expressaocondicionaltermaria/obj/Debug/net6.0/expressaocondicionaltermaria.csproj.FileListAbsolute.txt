@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\expressaocondicionaltermaria\bin\Debug\net6.0\expressaocondicionaltermaria.exe
+C:\01- BKP\Devops\CSharp\Exemplos\expressaocondicionaltermaria\bin\Debug\net6.0\expressaocondicionaltermaria.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\expressaocondicionaltermaria\bin\Debug\net6.0\expressaocondicionaltermaria.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\expressaocondicionaltermaria\bin\Debug\net6.0\expressaocondicionaltermaria.dll
+C:\01- BKP\Devops\CSharp\Exemplos\expressaocondicionaltermaria\bin\Debug\net6.0\expressaocondicionaltermaria.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\expressaocondicionaltermaria\obj\Debug\net6.0\expressaocondicionaltermaria.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\expressaocondicionaltermaria\obj\Debug\net6.0\expressaocondicionaltermaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\expressaocondicionaltermaria\obj\Debug\net6.0\expressaocondicionaltermaria.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\expressaocondicionaltermaria\obj\Debug\net6.0\expressaocondicionaltermaria.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\expressaocondicionaltermaria\obj\Debug\net6.0\expressaocondicionaltermaria.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\expressaocondicionaltermaria\obj\Debug\net6.0\expressaocondicionaltermaria.dll
+C:\01- BKP\Devops\CSharp\Exemplos\expressaocondicionaltermaria\obj\Debug\net6.0\refint\expressaocondicionaltermaria.dll
+C:\01- BKP\Devops\CSharp\Exemplos\expressaocondicionaltermaria\obj\Debug\net6.0\expressaocondicionaltermaria.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\expressaocondicionaltermaria\obj\Debug\net6.0\expressaocondicionaltermaria.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\expressaocondicionaltermaria\obj\Debug\net6.0\ref\expressaocondicionaltermaria.dll

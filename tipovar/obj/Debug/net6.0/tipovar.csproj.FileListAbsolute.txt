@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\tipovar\bin\Debug\net6.0\tipovar.exe
+C:\01- BKP\Devops\CSharp\Exemplos\tipovar\bin\Debug\net6.0\tipovar.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\tipovar\bin\Debug\net6.0\tipovar.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\tipovar\bin\Debug\net6.0\tipovar.dll
+C:\01- BKP\Devops\CSharp\Exemplos\tipovar\bin\Debug\net6.0\tipovar.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\tipovar\obj\Debug\net6.0\tipovar.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\tipovar\obj\Debug\net6.0\tipovar.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\tipovar\obj\Debug\net6.0\tipovar.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\tipovar\obj\Debug\net6.0\tipovar.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\tipovar\obj\Debug\net6.0\tipovar.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\tipovar\obj\Debug\net6.0\tipovar.dll
+C:\01- BKP\Devops\CSharp\Exemplos\tipovar\obj\Debug\net6.0\refint\tipovar.dll
+C:\01- BKP\Devops\CSharp\Exemplos\tipovar\obj\Debug\net6.0\tipovar.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\tipovar\obj\Debug\net6.0\tipovar.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\tipovar\obj\Debug\net6.0\ref\tipovar.dll

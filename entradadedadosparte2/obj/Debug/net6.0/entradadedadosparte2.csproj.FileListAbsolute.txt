@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\entradadedadosparte2\bin\Debug\net6.0\entradadedadosparte2.exe
+C:\01- BKP\Devops\CSharp\Exemplos\entradadedadosparte2\bin\Debug\net6.0\entradadedadosparte2.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\entradadedadosparte2\bin\Debug\net6.0\entradadedadosparte2.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\entradadedadosparte2\bin\Debug\net6.0\entradadedadosparte2.dll
+C:\01- BKP\Devops\CSharp\Exemplos\entradadedadosparte2\bin\Debug\net6.0\entradadedadosparte2.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\entradadedadosparte2\obj\Debug\net6.0\entradadedadosparte2.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\entradadedadosparte2\obj\Debug\net6.0\entradadedadosparte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\entradadedadosparte2\obj\Debug\net6.0\entradadedadosparte2.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\entradadedadosparte2\obj\Debug\net6.0\entradadedadosparte2.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\entradadedadosparte2\obj\Debug\net6.0\entradadedadosparte2.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\entradadedadosparte2\obj\Debug\net6.0\entradadedadosparte2.dll
+C:\01- BKP\Devops\CSharp\Exemplos\entradadedadosparte2\obj\Debug\net6.0\refint\entradadedadosparte2.dll
+C:\01- BKP\Devops\CSharp\Exemplos\entradadedadosparte2\obj\Debug\net6.0\entradadedadosparte2.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\entradadedadosparte2\obj\Debug\net6.0\entradadedadosparte2.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\entradadedadosparte2\obj\Debug\net6.0\ref\entradadedadosparte2.dll

@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\sobrecarga\bin\Debug\net6.0\sobrecarga.exe
+C:\01- BKP\Devops\CSharp\Exemplos\sobrecarga\bin\Debug\net6.0\sobrecarga.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\sobrecarga\bin\Debug\net6.0\sobrecarga.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\sobrecarga\bin\Debug\net6.0\sobrecarga.dll
+C:\01- BKP\Devops\CSharp\Exemplos\sobrecarga\bin\Debug\net6.0\sobrecarga.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\sobrecarga\obj\Debug\net6.0\sobrecarga.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\sobrecarga\obj\Debug\net6.0\sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\sobrecarga\obj\Debug\net6.0\sobrecarga.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\sobrecarga\obj\Debug\net6.0\sobrecarga.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\sobrecarga\obj\Debug\net6.0\sobrecarga.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\sobrecarga\obj\Debug\net6.0\sobrecarga.dll
+C:\01- BKP\Devops\CSharp\Exemplos\sobrecarga\obj\Debug\net6.0\refint\sobrecarga.dll
+C:\01- BKP\Devops\CSharp\Exemplos\sobrecarga\obj\Debug\net6.0\sobrecarga.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\sobrecarga\obj\Debug\net6.0\sobrecarga.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\sobrecarga\obj\Debug\net6.0\ref\sobrecarga.dll

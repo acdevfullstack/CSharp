@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\modificadordeparams\obj\Debug\net6.0\modificadordeparams.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\modificadordeparams\obj\Debug\net6.0\modificadordeparams.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\modificadordeparams\obj\Debug\net6.0\modificadordeparams.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\modificadordeparams\obj\Debug\net6.0\modificadordeparams.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\modificadordeparams\obj\Debug\net6.0\modificadordeparams.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\modificadordeparams\bin\Debug\net6.0\modificadordeparams.exe
+C:\01- BKP\Devops\CSharp\Exemplos\modificadordeparams\bin\Debug\net6.0\modificadordeparams.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\modificadordeparams\bin\Debug\net6.0\modificadordeparams.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\modificadordeparams\bin\Debug\net6.0\modificadordeparams.dll
+C:\01- BKP\Devops\CSharp\Exemplos\modificadordeparams\bin\Debug\net6.0\modificadordeparams.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\modificadordeparams\obj\Debug\net6.0\modificadordeparams.dll
+C:\01- BKP\Devops\CSharp\Exemplos\modificadordeparams\obj\Debug\net6.0\refint\modificadordeparams.dll
+C:\01- BKP\Devops\CSharp\Exemplos\modificadordeparams\obj\Debug\net6.0\modificadordeparams.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\modificadordeparams\obj\Debug\net6.0\modificadordeparams.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\modificadordeparams\obj\Debug\net6.0\ref\modificadordeparams.dll

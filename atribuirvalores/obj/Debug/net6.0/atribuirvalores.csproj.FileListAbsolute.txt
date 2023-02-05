@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\bin\Debug\net6.0\atribuirvalores.exe
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\bin\Debug\net6.0\atribuirvalores.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\bin\Debug\net6.0\atribuirvalores.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\bin\Debug\net6.0\atribuirvalores.dll
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\bin\Debug\net6.0\atribuirvalores.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\atribuirvalores.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\atribuirvalores.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\atribuirvalores.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\atribuirvalores.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\atribuirvalores.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\atribuirvalores.dll
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\refint\atribuirvalores.dll
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\atribuirvalores.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\atribuirvalores.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\aula01\obj\Debug\net6.0\ref\atribuirvalores.dll

@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\propriedades\bin\Debug\net6.0\propriedades.exe
+C:\01- BKP\Devops\CSharp\Exemplos\propriedades\bin\Debug\net6.0\propriedades.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\propriedades\bin\Debug\net6.0\propriedades.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\propriedades\bin\Debug\net6.0\propriedades.dll
+C:\01- BKP\Devops\CSharp\Exemplos\propriedades\bin\Debug\net6.0\propriedades.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\propriedades\obj\Debug\net6.0\propriedades.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\propriedades\obj\Debug\net6.0\propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\propriedades\obj\Debug\net6.0\propriedades.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\propriedades\obj\Debug\net6.0\propriedades.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\propriedades\obj\Debug\net6.0\propriedades.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\propriedades\obj\Debug\net6.0\propriedades.dll
+C:\01- BKP\Devops\CSharp\Exemplos\propriedades\obj\Debug\net6.0\refint\propriedades.dll
+C:\01- BKP\Devops\CSharp\Exemplos\propriedades\obj\Debug\net6.0\propriedades.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\propriedades\obj\Debug\net6.0\propriedades.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\propriedades\obj\Debug\net6.0\ref\propriedades.dll

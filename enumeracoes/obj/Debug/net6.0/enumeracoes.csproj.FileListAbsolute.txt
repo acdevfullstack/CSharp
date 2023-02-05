@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\enumeracoes\bin\Debug\net6.0\enumeracoes.exe
+C:\01- BKP\Devops\CSharp\Exemplos\enumeracoes\bin\Debug\net6.0\enumeracoes.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\enumeracoes\bin\Debug\net6.0\enumeracoes.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\enumeracoes\bin\Debug\net6.0\enumeracoes.dll
+C:\01- BKP\Devops\CSharp\Exemplos\enumeracoes\bin\Debug\net6.0\enumeracoes.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\enumeracoes\obj\Debug\net6.0\enumeracoes.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\enumeracoes\obj\Debug\net6.0\enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\enumeracoes\obj\Debug\net6.0\enumeracoes.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\enumeracoes\obj\Debug\net6.0\enumeracoes.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\enumeracoes\obj\Debug\net6.0\enumeracoes.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\enumeracoes\obj\Debug\net6.0\enumeracoes.dll
+C:\01- BKP\Devops\CSharp\Exemplos\enumeracoes\obj\Debug\net6.0\refint\enumeracoes.dll
+C:\01- BKP\Devops\CSharp\Exemplos\enumeracoes\obj\Debug\net6.0\enumeracoes.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\enumeracoes\obj\Debug\net6.0\enumeracoes.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\enumeracoes\obj\Debug\net6.0\ref\enumeracoes.dll

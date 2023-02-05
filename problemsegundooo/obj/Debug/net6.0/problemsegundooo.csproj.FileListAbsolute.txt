@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\problemsegundooo\bin\Debug\net6.0\problemsegundooo.exe
+C:\01- BKP\Devops\CSharp\Exemplos\problemsegundooo\bin\Debug\net6.0\problemsegundooo.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\problemsegundooo\bin\Debug\net6.0\problemsegundooo.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\problemsegundooo\bin\Debug\net6.0\problemsegundooo.dll
+C:\01- BKP\Devops\CSharp\Exemplos\problemsegundooo\bin\Debug\net6.0\problemsegundooo.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\problemsegundooo\obj\Debug\net6.0\problemsegundooo.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\problemsegundooo\obj\Debug\net6.0\problemsegundooo.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\problemsegundooo\obj\Debug\net6.0\problemsegundooo.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\problemsegundooo\obj\Debug\net6.0\problemsegundooo.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\problemsegundooo\obj\Debug\net6.0\problemsegundooo.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\problemsegundooo\obj\Debug\net6.0\problemsegundooo.dll
+C:\01- BKP\Devops\CSharp\Exemplos\problemsegundooo\obj\Debug\net6.0\refint\problemsegundooo.dll
+C:\01- BKP\Devops\CSharp\Exemplos\problemsegundooo\obj\Debug\net6.0\problemsegundooo.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\problemsegundooo\obj\Debug\net6.0\problemsegundooo.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\problemsegundooo\obj\Debug\net6.0\ref\problemsegundooo.dll

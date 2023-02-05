@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresaritmeticos\bin\Debug\net6.0\operadoresaritmeticos.exe
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresaritmeticos\bin\Debug\net6.0\operadoresaritmeticos.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresaritmeticos\bin\Debug\net6.0\operadoresaritmeticos.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresaritmeticos\bin\Debug\net6.0\operadoresaritmeticos.dll
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresaritmeticos\bin\Debug\net6.0\operadoresaritmeticos.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresaritmeticos\obj\Debug\net6.0\operadoresaritmeticos.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresaritmeticos\obj\Debug\net6.0\operadoresaritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresaritmeticos\obj\Debug\net6.0\operadoresaritmeticos.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresaritmeticos\obj\Debug\net6.0\operadoresaritmeticos.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresaritmeticos\obj\Debug\net6.0\operadoresaritmeticos.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresaritmeticos\obj\Debug\net6.0\operadoresaritmeticos.dll
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresaritmeticos\obj\Debug\net6.0\refint\operadoresaritmeticos.dll
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresaritmeticos\obj\Debug\net6.0\operadoresaritmeticos.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresaritmeticos\obj\Debug\net6.0\operadoresaritmeticos.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresaritmeticos\obj\Debug\net6.0\ref\operadoresaritmeticos.dll

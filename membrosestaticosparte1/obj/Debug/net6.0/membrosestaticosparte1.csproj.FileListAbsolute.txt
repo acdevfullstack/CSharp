@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\membrosestaticosparte1\bin\Debug\net6.0\membrosestaticosparte1.exe
+C:\01- BKP\Devops\CSharp\Exemplos\membrosestaticosparte1\bin\Debug\net6.0\membrosestaticosparte1.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\membrosestaticosparte1\bin\Debug\net6.0\membrosestaticosparte1.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\membrosestaticosparte1\bin\Debug\net6.0\membrosestaticosparte1.dll
+C:\01- BKP\Devops\CSharp\Exemplos\membrosestaticosparte1\bin\Debug\net6.0\membrosestaticosparte1.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\membrosestaticosparte1\obj\Debug\net6.0\membrosestaticosparte1.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\membrosestaticosparte1\obj\Debug\net6.0\membrosestaticosparte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\membrosestaticosparte1\obj\Debug\net6.0\membrosestaticosparte1.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\membrosestaticosparte1\obj\Debug\net6.0\membrosestaticosparte1.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\membrosestaticosparte1\obj\Debug\net6.0\membrosestaticosparte1.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\membrosestaticosparte1\obj\Debug\net6.0\membrosestaticosparte1.dll
+C:\01- BKP\Devops\CSharp\Exemplos\membrosestaticosparte1\obj\Debug\net6.0\refint\membrosestaticosparte1.dll
+C:\01- BKP\Devops\CSharp\Exemplos\membrosestaticosparte1\obj\Debug\net6.0\membrosestaticosparte1.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\membrosestaticosparte1\obj\Debug\net6.0\membrosestaticosparte1.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\membrosestaticosparte1\obj\Debug\net6.0\ref\membrosestaticosparte1.dll

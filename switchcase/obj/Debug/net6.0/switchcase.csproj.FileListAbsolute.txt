@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\switchcase\bin\Debug\net6.0\switchcase.exe
+C:\01- BKP\Devops\CSharp\Exemplos\switchcase\bin\Debug\net6.0\switchcase.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\switchcase\bin\Debug\net6.0\switchcase.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\switchcase\bin\Debug\net6.0\switchcase.dll
+C:\01- BKP\Devops\CSharp\Exemplos\switchcase\bin\Debug\net6.0\switchcase.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\switchcase\obj\Debug\net6.0\switchcase.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\switchcase\obj\Debug\net6.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\switchcase\obj\Debug\net6.0\switchcase.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\switchcase\obj\Debug\net6.0\switchcase.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\switchcase\obj\Debug\net6.0\switchcase.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\switchcase\obj\Debug\net6.0\switchcase.dll
+C:\01- BKP\Devops\CSharp\Exemplos\switchcase\obj\Debug\net6.0\refint\switchcase.dll
+C:\01- BKP\Devops\CSharp\Exemplos\switchcase\obj\Debug\net6.0\switchcase.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\switchcase\obj\Debug\net6.0\switchcase.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\switchcase\obj\Debug\net6.0\ref\switchcase.dll

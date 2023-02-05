@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresdeatribuicao\obj\Debug\net6.0\operadoresdeatribuicao.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresdeatribuicao\obj\Debug\net6.0\operadoresdeatribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresdeatribuicao\obj\Debug\net6.0\operadoresdeatribuicao.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresdeatribuicao\obj\Debug\net6.0\operadoresdeatribuicao.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresdeatribuicao\obj\Debug\net6.0\operadoresdeatribuicao.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresdeatribuicao\bin\Debug\net6.0\operadoresdeatribuicao.exe
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresdeatribuicao\bin\Debug\net6.0\operadoresdeatribuicao.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresdeatribuicao\bin\Debug\net6.0\operadoresdeatribuicao.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresdeatribuicao\bin\Debug\net6.0\operadoresdeatribuicao.dll
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresdeatribuicao\bin\Debug\net6.0\operadoresdeatribuicao.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresdeatribuicao\obj\Debug\net6.0\operadoresdeatribuicao.dll
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresdeatribuicao\obj\Debug\net6.0\refint\operadoresdeatribuicao.dll
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresdeatribuicao\obj\Debug\net6.0\operadoresdeatribuicao.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresdeatribuicao\obj\Debug\net6.0\operadoresdeatribuicao.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadoresdeatribuicao\obj\Debug\net6.0\ref\operadoresdeatribuicao.dll

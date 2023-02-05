@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "triangulosemoobj", "triangulosemoobj.csproj", "{CA0AC042-FEED-4DA6-9D37-D7498FFACCC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0AC042-FEED-4DA6-9D37-D7498FFACCC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0AC042-FEED-4DA6-9D37-D7498FFACCC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0AC042-FEED-4DA6-9D37-D7498FFACCC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0AC042-FEED-4DA6-9D37-D7498FFACCC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD9F1476-33C4-4C20-A0DC-5E73B595469D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\autopropriedades\bin\Debug\net6.0\autopropriedades.exe
+C:\01- BKP\Devops\CSharp\Exemplos\autopropriedades\bin\Debug\net6.0\autopropriedades.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\autopropriedades\bin\Debug\net6.0\autopropriedades.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\autopropriedades\bin\Debug\net6.0\autopropriedades.dll
+C:\01- BKP\Devops\CSharp\Exemplos\autopropriedades\bin\Debug\net6.0\autopropriedades.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\autopropriedades\obj\Debug\net6.0\autopropriedades.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\autopropriedades\obj\Debug\net6.0\autopropriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\autopropriedades\obj\Debug\net6.0\autopropriedades.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\autopropriedades\obj\Debug\net6.0\autopropriedades.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\autopropriedades\obj\Debug\net6.0\autopropriedades.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\autopropriedades\obj\Debug\net6.0\autopropriedades.dll
+C:\01- BKP\Devops\CSharp\Exemplos\autopropriedades\obj\Debug\net6.0\refint\autopropriedades.dll
+C:\01- BKP\Devops\CSharp\Exemplos\autopropriedades\obj\Debug\net6.0\autopropriedades.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\autopropriedades\obj\Debug\net6.0\autopropriedades.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\autopropriedades\obj\Debug\net6.0\ref\autopropriedades.dll

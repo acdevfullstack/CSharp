@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\vetoresparte1\bin\Debug\net6.0\vetoresparte1.exe
+C:\01- BKP\Devops\CSharp\Exemplos\vetoresparte1\bin\Debug\net6.0\vetoresparte1.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\vetoresparte1\bin\Debug\net6.0\vetoresparte1.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\vetoresparte1\bin\Debug\net6.0\vetoresparte1.dll
+C:\01- BKP\Devops\CSharp\Exemplos\vetoresparte1\bin\Debug\net6.0\vetoresparte1.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\vetoresparte1\obj\Debug\net6.0\vetoresparte1.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\vetoresparte1\obj\Debug\net6.0\vetoresparte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\vetoresparte1\obj\Debug\net6.0\vetoresparte1.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\vetoresparte1\obj\Debug\net6.0\vetoresparte1.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\vetoresparte1\obj\Debug\net6.0\vetoresparte1.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\vetoresparte1\obj\Debug\net6.0\vetoresparte1.dll
+C:\01- BKP\Devops\CSharp\Exemplos\vetoresparte1\obj\Debug\net6.0\refint\vetoresparte1.dll
+C:\01- BKP\Devops\CSharp\Exemplos\vetoresparte1\obj\Debug\net6.0\vetoresparte1.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\vetoresparte1\obj\Debug\net6.0\vetoresparte1.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\vetoresparte1\obj\Debug\net6.0\ref\vetoresparte1.dll

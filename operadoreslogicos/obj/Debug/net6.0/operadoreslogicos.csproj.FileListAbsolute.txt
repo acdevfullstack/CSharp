@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\operadoreslogicos\bin\Debug\net6.0\operadoreslogicos.exe
+C:\01- BKP\Devops\CSharp\Exemplos\operadoreslogicos\bin\Debug\net6.0\operadoreslogicos.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\operadoreslogicos\bin\Debug\net6.0\operadoreslogicos.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\operadoreslogicos\bin\Debug\net6.0\operadoreslogicos.dll
+C:\01- BKP\Devops\CSharp\Exemplos\operadoreslogicos\bin\Debug\net6.0\operadoreslogicos.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\operadoreslogicos\obj\Debug\net6.0\operadoreslogicos.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadoreslogicos\obj\Debug\net6.0\operadoreslogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\operadoreslogicos\obj\Debug\net6.0\operadoreslogicos.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadoreslogicos\obj\Debug\net6.0\operadoreslogicos.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\operadoreslogicos\obj\Debug\net6.0\operadoreslogicos.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadoreslogicos\obj\Debug\net6.0\operadoreslogicos.dll
+C:\01- BKP\Devops\CSharp\Exemplos\operadoreslogicos\obj\Debug\net6.0\refint\operadoreslogicos.dll
+C:\01- BKP\Devops\CSharp\Exemplos\operadoreslogicos\obj\Debug\net6.0\operadoreslogicos.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\operadoreslogicos\obj\Debug\net6.0\operadoreslogicos.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadoreslogicos\obj\Debug\net6.0\ref\operadoreslogicos.dll

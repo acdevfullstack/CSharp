@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\nullable\bin\Debug\net6.0\nullable.exe
+C:\01- BKP\Devops\CSharp\Exemplos\nullable\bin\Debug\net6.0\nullable.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\nullable\bin\Debug\net6.0\nullable.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\nullable\bin\Debug\net6.0\nullable.dll
+C:\01- BKP\Devops\CSharp\Exemplos\nullable\bin\Debug\net6.0\nullable.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\nullable\obj\Debug\net6.0\nullable.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\nullable\obj\Debug\net6.0\nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\nullable\obj\Debug\net6.0\nullable.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\nullable\obj\Debug\net6.0\nullable.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\nullable\obj\Debug\net6.0\nullable.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\nullable\obj\Debug\net6.0\nullable.dll
+C:\01- BKP\Devops\CSharp\Exemplos\nullable\obj\Debug\net6.0\refint\nullable.dll
+C:\01- BKP\Devops\CSharp\Exemplos\nullable\obj\Debug\net6.0\nullable.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\nullable\obj\Debug\net6.0\nullable.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\nullable\obj\Debug\net6.0\ref\nullable.dll

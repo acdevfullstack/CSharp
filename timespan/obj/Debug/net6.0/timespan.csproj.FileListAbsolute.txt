@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\timespan\bin\Debug\net6.0\timespan.exe
+C:\01- BKP\Devops\CSharp\Exemplos\timespan\bin\Debug\net6.0\timespan.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\timespan\bin\Debug\net6.0\timespan.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\timespan\bin\Debug\net6.0\timespan.dll
+C:\01- BKP\Devops\CSharp\Exemplos\timespan\bin\Debug\net6.0\timespan.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\timespan\obj\Debug\net6.0\timespan.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\timespan\obj\Debug\net6.0\timespan.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\timespan\obj\Debug\net6.0\timespan.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\timespan\obj\Debug\net6.0\timespan.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\timespan\obj\Debug\net6.0\timespan.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\timespan\obj\Debug\net6.0\timespan.dll
+C:\01- BKP\Devops\CSharp\Exemplos\timespan\obj\Debug\net6.0\refint\timespan.dll
+C:\01- BKP\Devops\CSharp\Exemplos\timespan\obj\Debug\net6.0\timespan.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\timespan\obj\Debug\net6.0\timespan.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\timespan\obj\Debug\net6.0\ref\timespan.dll

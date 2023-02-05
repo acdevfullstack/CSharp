@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\estruturacondicional\bin\Debug\net6.0\estruturacondicional.exe
+C:\01- BKP\Devops\CSharp\Exemplos\estruturacondicional\bin\Debug\net6.0\estruturacondicional.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\estruturacondicional\bin\Debug\net6.0\estruturacondicional.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\estruturacondicional\bin\Debug\net6.0\estruturacondicional.dll
+C:\01- BKP\Devops\CSharp\Exemplos\estruturacondicional\bin\Debug\net6.0\estruturacondicional.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\estruturacondicional\obj\Debug\net6.0\estruturacondicional.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturacondicional\obj\Debug\net6.0\estruturacondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\estruturacondicional\obj\Debug\net6.0\estruturacondicional.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturacondicional\obj\Debug\net6.0\estruturacondicional.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\estruturacondicional\obj\Debug\net6.0\estruturacondicional.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturacondicional\obj\Debug\net6.0\estruturacondicional.dll
+C:\01- BKP\Devops\CSharp\Exemplos\estruturacondicional\obj\Debug\net6.0\refint\estruturacondicional.dll
+C:\01- BKP\Devops\CSharp\Exemplos\estruturacondicional\obj\Debug\net6.0\estruturacondicional.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\estruturacondicional\obj\Debug\net6.0\estruturacondicional.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturacondicional\obj\Debug\net6.0\ref\estruturacondicional.dll

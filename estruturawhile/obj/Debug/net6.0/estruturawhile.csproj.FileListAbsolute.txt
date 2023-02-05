@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\estruturawhile\obj\Debug\net6.0\estruturawhile.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturawhile\obj\Debug\net6.0\estruturawhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\estruturawhile\obj\Debug\net6.0\estruturawhile.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturawhile\obj\Debug\net6.0\estruturawhile.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\estruturawhile\obj\Debug\net6.0\estruturawhile.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturawhile\bin\Debug\net6.0\estruturawhile.exe
+C:\01- BKP\Devops\CSharp\Exemplos\estruturawhile\bin\Debug\net6.0\estruturawhile.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\estruturawhile\bin\Debug\net6.0\estruturawhile.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\estruturawhile\bin\Debug\net6.0\estruturawhile.dll
+C:\01- BKP\Devops\CSharp\Exemplos\estruturawhile\bin\Debug\net6.0\estruturawhile.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\estruturawhile\obj\Debug\net6.0\estruturawhile.dll
+C:\01- BKP\Devops\CSharp\Exemplos\estruturawhile\obj\Debug\net6.0\refint\estruturawhile.dll
+C:\01- BKP\Devops\CSharp\Exemplos\estruturawhile\obj\Debug\net6.0\estruturawhile.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\estruturawhile\obj\Debug\net6.0\estruturawhile.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturawhile\obj\Debug\net6.0\ref\estruturawhile.dll

@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\construtores\bin\Debug\net6.0\construtores.exe
+C:\01- BKP\Devops\CSharp\Exemplos\construtores\bin\Debug\net6.0\construtores.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\construtores\bin\Debug\net6.0\construtores.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\construtores\bin\Debug\net6.0\construtores.dll
+C:\01- BKP\Devops\CSharp\Exemplos\construtores\bin\Debug\net6.0\construtores.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\construtores\obj\Debug\net6.0\construtores.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\construtores\obj\Debug\net6.0\construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\construtores\obj\Debug\net6.0\construtores.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\construtores\obj\Debug\net6.0\construtores.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\construtores\obj\Debug\net6.0\construtores.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\construtores\obj\Debug\net6.0\construtores.dll
+C:\01- BKP\Devops\CSharp\Exemplos\construtores\obj\Debug\net6.0\refint\construtores.dll
+C:\01- BKP\Devops\CSharp\Exemplos\construtores\obj\Debug\net6.0\construtores.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\construtores\obj\Debug\net6.0\construtores.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\construtores\obj\Debug\net6.0\ref\construtores.dll

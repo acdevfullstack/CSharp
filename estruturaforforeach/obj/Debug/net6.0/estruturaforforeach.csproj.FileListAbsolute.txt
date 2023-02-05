@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\estruturaforforeach\bin\Debug\net6.0\estruturaforforeach.exe
+C:\01- BKP\Devops\CSharp\Exemplos\estruturaforforeach\bin\Debug\net6.0\estruturaforforeach.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\estruturaforforeach\bin\Debug\net6.0\estruturaforforeach.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\estruturaforforeach\bin\Debug\net6.0\estruturaforforeach.dll
+C:\01- BKP\Devops\CSharp\Exemplos\estruturaforforeach\bin\Debug\net6.0\estruturaforforeach.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\estruturaforforeach\obj\Debug\net6.0\estruturaforforeach.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturaforforeach\obj\Debug\net6.0\estruturaforforeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\estruturaforforeach\obj\Debug\net6.0\estruturaforforeach.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturaforforeach\obj\Debug\net6.0\estruturaforforeach.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\estruturaforforeach\obj\Debug\net6.0\estruturaforforeach.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturaforforeach\obj\Debug\net6.0\estruturaforforeach.dll
+C:\01- BKP\Devops\CSharp\Exemplos\estruturaforforeach\obj\Debug\net6.0\refint\estruturaforforeach.dll
+C:\01- BKP\Devops\CSharp\Exemplos\estruturaforforeach\obj\Debug\net6.0\estruturaforforeach.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\estruturaforforeach\obj\Debug\net6.0\estruturaforforeach.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturaforforeach\obj\Debug\net6.0\ref\estruturaforforeach.dll

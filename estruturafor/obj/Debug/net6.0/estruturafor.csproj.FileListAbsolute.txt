@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\estruturafor\obj\Debug\net6.0\estruturafor.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturafor\obj\Debug\net6.0\estruturafor.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\estruturafor\obj\Debug\net6.0\estruturafor.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturafor\obj\Debug\net6.0\estruturafor.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\estruturafor\obj\Debug\net6.0\estruturafor.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturafor\bin\Debug\net6.0\estruturafor.exe
+C:\01- BKP\Devops\CSharp\Exemplos\estruturafor\bin\Debug\net6.0\estruturafor.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\estruturafor\bin\Debug\net6.0\estruturafor.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\estruturafor\bin\Debug\net6.0\estruturafor.dll
+C:\01- BKP\Devops\CSharp\Exemplos\estruturafor\bin\Debug\net6.0\estruturafor.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\estruturafor\obj\Debug\net6.0\estruturafor.dll
+C:\01- BKP\Devops\CSharp\Exemplos\estruturafor\obj\Debug\net6.0\refint\estruturafor.dll
+C:\01- BKP\Devops\CSharp\Exemplos\estruturafor\obj\Debug\net6.0\estruturafor.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\estruturafor\obj\Debug\net6.0\estruturafor.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\estruturafor\obj\Debug\net6.0\ref\estruturafor.dll

@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\encapsulamento\obj\Debug\net6.0\encapsulamento.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\encapsulamento\obj\Debug\net6.0\encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\encapsulamento\obj\Debug\net6.0\encapsulamento.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\encapsulamento\obj\Debug\net6.0\encapsulamento.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\encapsulamento\obj\Debug\net6.0\encapsulamento.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\encapsulamento\bin\Debug\net6.0\encapsulamento.exe
+C:\01- BKP\Devops\CSharp\Exemplos\encapsulamento\bin\Debug\net6.0\encapsulamento.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\encapsulamento\bin\Debug\net6.0\encapsulamento.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\encapsulamento\bin\Debug\net6.0\encapsulamento.dll
+C:\01- BKP\Devops\CSharp\Exemplos\encapsulamento\bin\Debug\net6.0\encapsulamento.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\encapsulamento\obj\Debug\net6.0\encapsulamento.dll
+C:\01- BKP\Devops\CSharp\Exemplos\encapsulamento\obj\Debug\net6.0\refint\encapsulamento.dll
+C:\01- BKP\Devops\CSharp\Exemplos\encapsulamento\obj\Debug\net6.0\encapsulamento.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\encapsulamento\obj\Debug\net6.0\encapsulamento.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\encapsulamento\obj\Debug\net6.0\ref\encapsulamento.dll

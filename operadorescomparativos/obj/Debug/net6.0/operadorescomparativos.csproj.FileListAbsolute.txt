@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\operadorescomparativos\bin\Debug\net6.0\operadorescomparativos.exe
+C:\01- BKP\Devops\CSharp\Exemplos\operadorescomparativos\bin\Debug\net6.0\operadorescomparativos.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\operadorescomparativos\bin\Debug\net6.0\operadorescomparativos.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\operadorescomparativos\bin\Debug\net6.0\operadorescomparativos.dll
+C:\01- BKP\Devops\CSharp\Exemplos\operadorescomparativos\bin\Debug\net6.0\operadorescomparativos.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\operadorescomparativos\obj\Debug\net6.0\operadorescomparativos.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadorescomparativos\obj\Debug\net6.0\operadorescomparativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\operadorescomparativos\obj\Debug\net6.0\operadorescomparativos.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadorescomparativos\obj\Debug\net6.0\operadorescomparativos.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\operadorescomparativos\obj\Debug\net6.0\operadorescomparativos.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadorescomparativos\obj\Debug\net6.0\operadorescomparativos.dll
+C:\01- BKP\Devops\CSharp\Exemplos\operadorescomparativos\obj\Debug\net6.0\refint\operadorescomparativos.dll
+C:\01- BKP\Devops\CSharp\Exemplos\operadorescomparativos\obj\Debug\net6.0\operadorescomparativos.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\operadorescomparativos\obj\Debug\net6.0\operadorescomparativos.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\operadorescomparativos\obj\Debug\net6.0\ref\operadorescomparativos.dll

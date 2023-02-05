@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\datetimekindepadraoiso8601\bin\Debug\net6.0\datetimekindepadraoiso8601.exe
+C:\01- BKP\Devops\CSharp\Exemplos\datetimekindepadraoiso8601\bin\Debug\net6.0\datetimekindepadraoiso8601.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\datetimekindepadraoiso8601\bin\Debug\net6.0\datetimekindepadraoiso8601.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\datetimekindepadraoiso8601\bin\Debug\net6.0\datetimekindepadraoiso8601.dll
+C:\01- BKP\Devops\CSharp\Exemplos\datetimekindepadraoiso8601\bin\Debug\net6.0\datetimekindepadraoiso8601.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\datetimekindepadraoiso8601\obj\Debug\net6.0\datetimekindepadraoiso8601.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\datetimekindepadraoiso8601\obj\Debug\net6.0\datetimekindepadraoiso8601.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\datetimekindepadraoiso8601\obj\Debug\net6.0\datetimekindepadraoiso8601.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\datetimekindepadraoiso8601\obj\Debug\net6.0\datetimekindepadraoiso8601.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\datetimekindepadraoiso8601\obj\Debug\net6.0\datetimekindepadraoiso8601.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\datetimekindepadraoiso8601\obj\Debug\net6.0\datetimekindepadraoiso8601.dll
+C:\01- BKP\Devops\CSharp\Exemplos\datetimekindepadraoiso8601\obj\Debug\net6.0\refint\datetimekindepadraoiso8601.dll
+C:\01- BKP\Devops\CSharp\Exemplos\datetimekindepadraoiso8601\obj\Debug\net6.0\datetimekindepadraoiso8601.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\datetimekindepadraoiso8601\obj\Debug\net6.0\datetimekindepadraoiso8601.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\datetimekindepadraoiso8601\obj\Debug\net6.0\ref\datetimekindepadraoiso8601.dll

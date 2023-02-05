@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\bin\Debug\net6.0\triangulosemoobj.exe
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\bin\Debug\net6.0\triangulosemoobj.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\bin\Debug\net6.0\triangulosemoobj.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\bin\Debug\net6.0\triangulosemoobj.dll
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\bin\Debug\net6.0\triangulosemoobj.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\triangulosemoobj.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\triangulosemoobj.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\triangulosemoobj.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\triangulosemoobj.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\triangulosemoobj.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\triangulosemoobj.dll
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\refint\triangulosemoobj.dll
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\triangulosemoobj.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\triangulosemoobj.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\resolprobloo\obj\Debug\net6.0\ref\triangulosemoobj.dll

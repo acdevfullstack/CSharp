@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\funcoesSintaxe\bin\Debug\net6.0\funcoesSintaxe.exe
+C:\01- BKP\Devops\CSharp\Exemplos\funcoesSintaxe\bin\Debug\net6.0\funcoesSintaxe.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\funcoesSintaxe\bin\Debug\net6.0\funcoesSintaxe.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\funcoesSintaxe\bin\Debug\net6.0\funcoesSintaxe.dll
+C:\01- BKP\Devops\CSharp\Exemplos\funcoesSintaxe\bin\Debug\net6.0\funcoesSintaxe.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.dll
+C:\01- BKP\Devops\CSharp\Exemplos\funcoesSintaxe\obj\Debug\net6.0\refint\funcoesSintaxe.dll
+C:\01- BKP\Devops\CSharp\Exemplos\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\funcoesSintaxe\obj\Debug\net6.0\ref\funcoesSintaxe.dll
