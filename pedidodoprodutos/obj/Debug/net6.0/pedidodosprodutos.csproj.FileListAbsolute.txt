@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\pedidodoprodutos\obj\Debug\net6.0\pedidodosprodutos.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\pedidodoprodutos\obj\Debug\net6.0\pedidodosprodutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\pedidodoprodutos\obj\Debug\net6.0\pedidodosprodutos.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\pedidodoprodutos\obj\Debug\net6.0\pedidodosprodutos.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\pedidodoprodutos\obj\Debug\net6.0\pedidodosprodutos.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\pedidodoprodutos\bin\Debug\net6.0\pedidodosprodutos.exe
+C:\01- BKP\Devops\CSharp\Exemplos\pedidodoprodutos\bin\Debug\net6.0\pedidodosprodutos.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\pedidodoprodutos\bin\Debug\net6.0\pedidodosprodutos.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\pedidodoprodutos\bin\Debug\net6.0\pedidodosprodutos.dll
+C:\01- BKP\Devops\CSharp\Exemplos\pedidodoprodutos\bin\Debug\net6.0\pedidodosprodutos.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\pedidodoprodutos\obj\Debug\net6.0\pedidodosprodutos.dll
+C:\01- BKP\Devops\CSharp\Exemplos\pedidodoprodutos\obj\Debug\net6.0\refint\pedidodosprodutos.dll
+C:\01- BKP\Devops\CSharp\Exemplos\pedidodoprodutos\obj\Debug\net6.0\pedidodosprodutos.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\pedidodoprodutos\obj\Debug\net6.0\pedidodosprodutos.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\pedidodoprodutos\obj\Debug\net6.0\ref\pedidodosprodutos.dll

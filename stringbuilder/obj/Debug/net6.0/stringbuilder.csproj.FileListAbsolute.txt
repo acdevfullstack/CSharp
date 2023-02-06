@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\stringbuilder\bin\Debug\net6.0\stringbuilder.exe
+C:\01- BKP\Devops\CSharp\Exemplos\stringbuilder\bin\Debug\net6.0\stringbuilder.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\stringbuilder\bin\Debug\net6.0\stringbuilder.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\stringbuilder\bin\Debug\net6.0\stringbuilder.dll
+C:\01- BKP\Devops\CSharp\Exemplos\stringbuilder\bin\Debug\net6.0\stringbuilder.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\stringbuilder\obj\Debug\net6.0\stringbuilder.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\stringbuilder\obj\Debug\net6.0\stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\stringbuilder\obj\Debug\net6.0\stringbuilder.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\stringbuilder\obj\Debug\net6.0\stringbuilder.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\stringbuilder\obj\Debug\net6.0\stringbuilder.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\stringbuilder\obj\Debug\net6.0\stringbuilder.dll
+C:\01- BKP\Devops\CSharp\Exemplos\stringbuilder\obj\Debug\net6.0\refint\stringbuilder.dll
+C:\01- BKP\Devops\CSharp\Exemplos\stringbuilder\obj\Debug\net6.0\stringbuilder.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\stringbuilder\obj\Debug\net6.0\stringbuilder.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\stringbuilder\obj\Debug\net6.0\ref\stringbuilder.dll

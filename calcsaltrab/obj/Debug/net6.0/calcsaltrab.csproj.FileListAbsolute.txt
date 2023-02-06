@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\calcsaltrab\bin\Debug\net6.0\calcsaltrab.exe
+C:\01- BKP\Devops\CSharp\Exemplos\calcsaltrab\bin\Debug\net6.0\calcsaltrab.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\calcsaltrab\bin\Debug\net6.0\calcsaltrab.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\calcsaltrab\bin\Debug\net6.0\calcsaltrab.dll
+C:\01- BKP\Devops\CSharp\Exemplos\calcsaltrab\bin\Debug\net6.0\calcsaltrab.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\calcsaltrab\obj\Debug\net6.0\calcsaltrab.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\calcsaltrab\obj\Debug\net6.0\calcsaltrab.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\calcsaltrab\obj\Debug\net6.0\calcsaltrab.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\calcsaltrab\obj\Debug\net6.0\calcsaltrab.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\calcsaltrab\obj\Debug\net6.0\calcsaltrab.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\calcsaltrab\obj\Debug\net6.0\calcsaltrab.dll
+C:\01- BKP\Devops\CSharp\Exemplos\calcsaltrab\obj\Debug\net6.0\refint\calcsaltrab.dll
+C:\01- BKP\Devops\CSharp\Exemplos\calcsaltrab\obj\Debug\net6.0\calcsaltrab.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\calcsaltrab\obj\Debug\net6.0\calcsaltrab.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\calcsaltrab\obj\Debug\net6.0\ref\calcsaltrab.dll
