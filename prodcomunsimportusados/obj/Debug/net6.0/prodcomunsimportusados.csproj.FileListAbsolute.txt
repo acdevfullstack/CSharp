@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\prodcomunsimportusados\bin\Debug\net6.0\prodcomunsimportusados.exe
+C:\01- BKP\Devops\CSharp\Exemplos\prodcomunsimportusados\bin\Debug\net6.0\prodcomunsimportusados.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\prodcomunsimportusados\bin\Debug\net6.0\prodcomunsimportusados.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\prodcomunsimportusados\bin\Debug\net6.0\prodcomunsimportusados.dll
+C:\01- BKP\Devops\CSharp\Exemplos\prodcomunsimportusados\bin\Debug\net6.0\prodcomunsimportusados.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\prodcomunsimportusados\obj\Debug\net6.0\prodcomunsimportusados.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\prodcomunsimportusados\obj\Debug\net6.0\prodcomunsimportusados.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\prodcomunsimportusados\obj\Debug\net6.0\prodcomunsimportusados.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\prodcomunsimportusados\obj\Debug\net6.0\prodcomunsimportusados.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\prodcomunsimportusados\obj\Debug\net6.0\prodcomunsimportusados.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\prodcomunsimportusados\obj\Debug\net6.0\prodcomunsimportusados.dll
+C:\01- BKP\Devops\CSharp\Exemplos\prodcomunsimportusados\obj\Debug\net6.0\refint\prodcomunsimportusados.dll
+C:\01- BKP\Devops\CSharp\Exemplos\prodcomunsimportusados\obj\Debug\net6.0\prodcomunsimportusados.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\prodcomunsimportusados\obj\Debug\net6.0\prodcomunsimportusados.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\prodcomunsimportusados\obj\Debug\net6.0\ref\prodcomunsimportusados.dll

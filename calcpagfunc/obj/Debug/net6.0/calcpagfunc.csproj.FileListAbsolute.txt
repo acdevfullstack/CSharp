@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\calcpagfunc\bin\Debug\net6.0\calcpagfunc.exe
+C:\01- BKP\Devops\CSharp\Exemplos\calcpagfunc\bin\Debug\net6.0\calcpagfunc.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\calcpagfunc\bin\Debug\net6.0\calcpagfunc.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\calcpagfunc\bin\Debug\net6.0\calcpagfunc.dll
+C:\01- BKP\Devops\CSharp\Exemplos\calcpagfunc\bin\Debug\net6.0\calcpagfunc.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\calcpagfunc\obj\Debug\net6.0\calcpagfunc.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\calcpagfunc\obj\Debug\net6.0\calcpagfunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\calcpagfunc\obj\Debug\net6.0\calcpagfunc.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\calcpagfunc\obj\Debug\net6.0\calcpagfunc.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\calcpagfunc\obj\Debug\net6.0\calcpagfunc.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\calcpagfunc\obj\Debug\net6.0\calcpagfunc.dll
+C:\01- BKP\Devops\CSharp\Exemplos\calcpagfunc\obj\Debug\net6.0\refint\calcpagfunc.dll
+C:\01- BKP\Devops\CSharp\Exemplos\calcpagfunc\obj\Debug\net6.0\calcpagfunc.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\calcpagfunc\obj\Debug\net6.0\calcpagfunc.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\calcpagfunc\obj\Debug\net6.0\ref\calcpagfunc.dll
