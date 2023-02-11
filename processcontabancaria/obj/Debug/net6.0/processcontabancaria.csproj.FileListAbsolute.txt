@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\processcontabancaria\bin\Debug\net6.0\processcontabancaria.exe
+C:\01- BKP\Devops\CSharp\Exemplos\processcontabancaria\bin\Debug\net6.0\processcontabancaria.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\processcontabancaria\bin\Debug\net6.0\processcontabancaria.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\processcontabancaria\bin\Debug\net6.0\processcontabancaria.dll
+C:\01- BKP\Devops\CSharp\Exemplos\processcontabancaria\bin\Debug\net6.0\processcontabancaria.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\processcontabancaria\obj\Debug\net6.0\processcontabancaria.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\processcontabancaria\obj\Debug\net6.0\processcontabancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\processcontabancaria\obj\Debug\net6.0\processcontabancaria.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\processcontabancaria\obj\Debug\net6.0\processcontabancaria.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\processcontabancaria\obj\Debug\net6.0\processcontabancaria.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\processcontabancaria\obj\Debug\net6.0\processcontabancaria.dll
+C:\01- BKP\Devops\CSharp\Exemplos\processcontabancaria\obj\Debug\net6.0\refint\processcontabancaria.dll
+C:\01- BKP\Devops\CSharp\Exemplos\processcontabancaria\obj\Debug\net6.0\processcontabancaria.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\processcontabancaria\obj\Debug\net6.0\processcontabancaria.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\processcontabancaria\obj\Debug\net6.0\ref\processcontabancaria.dll

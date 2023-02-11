@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\excecoestrycatchfinally\bin\Debug\net6.0\excecoestrycatchfinally.exe
+C:\01- BKP\Devops\CSharp\Exemplos\excecoestrycatchfinally\bin\Debug\net6.0\excecoestrycatchfinally.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\excecoestrycatchfinally\bin\Debug\net6.0\excecoestrycatchfinally.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\excecoestrycatchfinally\bin\Debug\net6.0\excecoestrycatchfinally.dll
+C:\01- BKP\Devops\CSharp\Exemplos\excecoestrycatchfinally\bin\Debug\net6.0\excecoestrycatchfinally.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\excecoestrycatchfinally\obj\Debug\net6.0\excecoestrycatchfinally.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\excecoestrycatchfinally\obj\Debug\net6.0\excecoestrycatchfinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\excecoestrycatchfinally\obj\Debug\net6.0\excecoestrycatchfinally.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\excecoestrycatchfinally\obj\Debug\net6.0\excecoestrycatchfinally.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\excecoestrycatchfinally\obj\Debug\net6.0\excecoestrycatchfinally.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\excecoestrycatchfinally\obj\Debug\net6.0\excecoestrycatchfinally.dll
+C:\01- BKP\Devops\CSharp\Exemplos\excecoestrycatchfinally\obj\Debug\net6.0\refint\excecoestrycatchfinally.dll
+C:\01- BKP\Devops\CSharp\Exemplos\excecoestrycatchfinally\obj\Debug\net6.0\excecoestrycatchfinally.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\excecoestrycatchfinally\obj\Debug\net6.0\excecoestrycatchfinally.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\excecoestrycatchfinally\obj\Debug\net6.0\ref\excecoestrycatchfinally.dll

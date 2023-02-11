@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\contabancoclassabstrata\bin\Debug\net6.0\contabancoclassabstrata.exe
+C:\01- BKP\Devops\CSharp\Exemplos\contabancoclassabstrata\bin\Debug\net6.0\contabancoclassabstrata.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\contabancoclassabstrata\bin\Debug\net6.0\contabancoclassabstrata.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\contabancoclassabstrata\bin\Debug\net6.0\contabancoclassabstrata.dll
+C:\01- BKP\Devops\CSharp\Exemplos\contabancoclassabstrata\bin\Debug\net6.0\contabancoclassabstrata.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\contabancoclassabstrata\obj\Debug\net6.0\contabancoclassabstrata.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\contabancoclassabstrata\obj\Debug\net6.0\contabancoclassabstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\contabancoclassabstrata\obj\Debug\net6.0\contabancoclassabstrata.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\contabancoclassabstrata\obj\Debug\net6.0\contabancoclassabstrata.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\contabancoclassabstrata\obj\Debug\net6.0\contabancoclassabstrata.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\contabancoclassabstrata\obj\Debug\net6.0\contabancoclassabstrata.dll
+C:\01- BKP\Devops\CSharp\Exemplos\contabancoclassabstrata\obj\Debug\net6.0\refint\contabancoclassabstrata.dll
+C:\01- BKP\Devops\CSharp\Exemplos\contabancoclassabstrata\obj\Debug\net6.0\contabancoclassabstrata.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\contabancoclassabstrata\obj\Debug\net6.0\contabancoclassabstrata.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\contabancoclassabstrata\obj\Debug\net6.0\ref\contabancoclassabstrata.dll

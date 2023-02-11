@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\coresformasgeometricas\bin\Debug\net6.0\coresformasgeometricas.exe
+C:\01- BKP\Devops\CSharp\Exemplos\coresformasgeometricas\bin\Debug\net6.0\coresformasgeometricas.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\coresformasgeometricas\bin\Debug\net6.0\coresformasgeometricas.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\coresformasgeometricas\bin\Debug\net6.0\coresformasgeometricas.dll
+C:\01- BKP\Devops\CSharp\Exemplos\coresformasgeometricas\bin\Debug\net6.0\coresformasgeometricas.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\coresformasgeometricas\obj\Debug\net6.0\coresformasgeometricas.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\coresformasgeometricas\obj\Debug\net6.0\coresformasgeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\coresformasgeometricas\obj\Debug\net6.0\coresformasgeometricas.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\coresformasgeometricas\obj\Debug\net6.0\coresformasgeometricas.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\coresformasgeometricas\obj\Debug\net6.0\coresformasgeometricas.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\coresformasgeometricas\obj\Debug\net6.0\coresformasgeometricas.dll
+C:\01- BKP\Devops\CSharp\Exemplos\coresformasgeometricas\obj\Debug\net6.0\refint\coresformasgeometricas.dll
+C:\01- BKP\Devops\CSharp\Exemplos\coresformasgeometricas\obj\Debug\net6.0\coresformasgeometricas.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\coresformasgeometricas\obj\Debug\net6.0\coresformasgeometricas.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\coresformasgeometricas\obj\Debug\net6.0\ref\coresformasgeometricas.dll

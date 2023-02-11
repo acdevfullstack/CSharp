@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\reservahotel\bin\Debug\net6.0\reservahotel.exe
+C:\01- BKP\Devops\CSharp\Exemplos\reservahotel\bin\Debug\net6.0\reservahotel.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\reservahotel\bin\Debug\net6.0\reservahotel.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\reservahotel\bin\Debug\net6.0\reservahotel.dll
+C:\01- BKP\Devops\CSharp\Exemplos\reservahotel\bin\Debug\net6.0\reservahotel.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\reservahotel\obj\Debug\net6.0\reservahotel.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\reservahotel\obj\Debug\net6.0\reservahotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\reservahotel\obj\Debug\net6.0\reservahotel.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\reservahotel\obj\Debug\net6.0\reservahotel.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\reservahotel\obj\Debug\net6.0\reservahotel.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\reservahotel\obj\Debug\net6.0\reservahotel.dll
+C:\01- BKP\Devops\CSharp\Exemplos\reservahotel\obj\Debug\net6.0\refint\reservahotel.dll
+C:\01- BKP\Devops\CSharp\Exemplos\reservahotel\obj\Debug\net6.0\reservahotel.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\reservahotel\obj\Debug\net6.0\reservahotel.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\reservahotel\obj\Debug\net6.0\ref\reservahotel.dll

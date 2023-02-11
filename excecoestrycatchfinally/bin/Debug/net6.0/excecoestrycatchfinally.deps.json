@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "excecoestrycatchfinally/1.0.0": {
+        "runtime": {
+          "excecoestrycatchfinally.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "excecoestrycatchfinally/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
