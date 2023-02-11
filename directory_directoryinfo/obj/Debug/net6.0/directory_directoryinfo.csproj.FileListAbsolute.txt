@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\directory_directoryinfo\bin\Debug\net6.0\directory_directoryinfo.exe
+C:\01- BKP\Devops\CSharp\Exemplos\directory_directoryinfo\bin\Debug\net6.0\directory_directoryinfo.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\directory_directoryinfo\bin\Debug\net6.0\directory_directoryinfo.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\directory_directoryinfo\bin\Debug\net6.0\directory_directoryinfo.dll
+C:\01- BKP\Devops\CSharp\Exemplos\directory_directoryinfo\bin\Debug\net6.0\directory_directoryinfo.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\directory_directoryinfo\obj\Debug\net6.0\directory_directoryinfo.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\directory_directoryinfo\obj\Debug\net6.0\directory_directoryinfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\directory_directoryinfo\obj\Debug\net6.0\directory_directoryinfo.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\directory_directoryinfo\obj\Debug\net6.0\directory_directoryinfo.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\directory_directoryinfo\obj\Debug\net6.0\directory_directoryinfo.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\directory_directoryinfo\obj\Debug\net6.0\directory_directoryinfo.dll
+C:\01- BKP\Devops\CSharp\Exemplos\directory_directoryinfo\obj\Debug\net6.0\refint\directory_directoryinfo.dll
+C:\01- BKP\Devops\CSharp\Exemplos\directory_directoryinfo\obj\Debug\net6.0\directory_directoryinfo.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\directory_directoryinfo\obj\Debug\net6.0\directory_directoryinfo.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\directory_directoryinfo\obj\Debug\net6.0\ref\directory_directoryinfo.dll

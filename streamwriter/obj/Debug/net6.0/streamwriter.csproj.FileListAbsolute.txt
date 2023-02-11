@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\streamwriter\obj\Debug\net6.0\streamwriter.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\streamwriter\obj\Debug\net6.0\streamwriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\streamwriter\obj\Debug\net6.0\streamwriter.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\streamwriter\obj\Debug\net6.0\streamwriter.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\streamwriter\obj\Debug\net6.0\streamwriter.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\streamwriter\bin\Debug\net6.0\streamwriter.exe
+C:\01- BKP\Devops\CSharp\Exemplos\streamwriter\bin\Debug\net6.0\streamwriter.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\streamwriter\bin\Debug\net6.0\streamwriter.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\streamwriter\bin\Debug\net6.0\streamwriter.dll
+C:\01- BKP\Devops\CSharp\Exemplos\streamwriter\bin\Debug\net6.0\streamwriter.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\streamwriter\obj\Debug\net6.0\streamwriter.dll
+C:\01- BKP\Devops\CSharp\Exemplos\streamwriter\obj\Debug\net6.0\refint\streamwriter.dll
+C:\01- BKP\Devops\CSharp\Exemplos\streamwriter\obj\Debug\net6.0\streamwriter.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\streamwriter\obj\Debug\net6.0\streamwriter.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\streamwriter\obj\Debug\net6.0\ref\streamwriter.dll

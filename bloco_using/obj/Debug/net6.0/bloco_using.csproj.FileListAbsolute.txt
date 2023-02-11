@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\bloco_using\bin\Debug\net6.0\bloco_using.exe
+C:\01- BKP\Devops\CSharp\Exemplos\bloco_using\bin\Debug\net6.0\bloco_using.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\bloco_using\bin\Debug\net6.0\bloco_using.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\bloco_using\bin\Debug\net6.0\bloco_using.dll
+C:\01- BKP\Devops\CSharp\Exemplos\bloco_using\bin\Debug\net6.0\bloco_using.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\bloco_using\obj\Debug\net6.0\bloco_using.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\bloco_using\obj\Debug\net6.0\bloco_using.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\bloco_using\obj\Debug\net6.0\bloco_using.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\bloco_using\obj\Debug\net6.0\bloco_using.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\bloco_using\obj\Debug\net6.0\bloco_using.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\bloco_using\obj\Debug\net6.0\bloco_using.dll
+C:\01- BKP\Devops\CSharp\Exemplos\bloco_using\obj\Debug\net6.0\refint\bloco_using.dll
+C:\01- BKP\Devops\CSharp\Exemplos\bloco_using\obj\Debug\net6.0\bloco_using.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\bloco_using\obj\Debug\net6.0\bloco_using.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\bloco_using\obj\Debug\net6.0\ref\bloco_using.dll

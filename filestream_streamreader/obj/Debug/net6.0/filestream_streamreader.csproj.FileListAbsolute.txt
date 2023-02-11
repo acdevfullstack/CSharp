@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\filestream_streamreader\obj\Debug\net6.0\filestream_streamreader.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\filestream_streamreader\obj\Debug\net6.0\filestream_streamreader.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\filestream_streamreader\obj\Debug\net6.0\filestream_streamreader.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\filestream_streamreader\obj\Debug\net6.0\filestream_streamreader.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\filestream_streamreader\obj\Debug\net6.0\filestream_streamreader.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\filestream_streamreader\bin\Debug\net6.0\filestream_streamreader.exe
+C:\01- BKP\Devops\CSharp\Exemplos\filestream_streamreader\bin\Debug\net6.0\filestream_streamreader.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\filestream_streamreader\bin\Debug\net6.0\filestream_streamreader.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\filestream_streamreader\bin\Debug\net6.0\filestream_streamreader.dll
+C:\01- BKP\Devops\CSharp\Exemplos\filestream_streamreader\bin\Debug\net6.0\filestream_streamreader.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\filestream_streamreader\obj\Debug\net6.0\filestream_streamreader.dll
+C:\01- BKP\Devops\CSharp\Exemplos\filestream_streamreader\obj\Debug\net6.0\refint\filestream_streamreader.dll
+C:\01- BKP\Devops\CSharp\Exemplos\filestream_streamreader\obj\Debug\net6.0\filestream_streamreader.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\filestream_streamreader\obj\Debug\net6.0\filestream_streamreader.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\filestream_streamreader\obj\Debug\net6.0\ref\filestream_streamreader.dll

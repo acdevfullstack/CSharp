@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\file_fileinfo_ioexception\bin\Debug\net6.0\file_fileinfo_ioexception.exe
+C:\01- BKP\Devops\CSharp\Exemplos\file_fileinfo_ioexception\bin\Debug\net6.0\file_fileinfo_ioexception.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\file_fileinfo_ioexception\bin\Debug\net6.0\file_fileinfo_ioexception.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\file_fileinfo_ioexception\bin\Debug\net6.0\file_fileinfo_ioexception.dll
+C:\01- BKP\Devops\CSharp\Exemplos\file_fileinfo_ioexception\bin\Debug\net6.0\file_fileinfo_ioexception.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\file_fileinfo_ioexception\obj\Debug\net6.0\file_fileinfo_ioexception.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\file_fileinfo_ioexception\obj\Debug\net6.0\file_fileinfo_ioexception.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\file_fileinfo_ioexception\obj\Debug\net6.0\file_fileinfo_ioexception.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\file_fileinfo_ioexception\obj\Debug\net6.0\file_fileinfo_ioexception.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\file_fileinfo_ioexception\obj\Debug\net6.0\file_fileinfo_ioexception.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\file_fileinfo_ioexception\obj\Debug\net6.0\file_fileinfo_ioexception.dll
+C:\01- BKP\Devops\CSharp\Exemplos\file_fileinfo_ioexception\obj\Debug\net6.0\refint\file_fileinfo_ioexception.dll
+C:\01- BKP\Devops\CSharp\Exemplos\file_fileinfo_ioexception\obj\Debug\net6.0\file_fileinfo_ioexception.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\file_fileinfo_ioexception\obj\Debug\net6.0\file_fileinfo_ioexception.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\file_fileinfo_ioexception\obj\Debug\net6.0\ref\file_fileinfo_ioexception.dll

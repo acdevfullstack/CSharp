@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\path\obj\Debug\net6.0\path.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\path\obj\Debug\net6.0\path.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\path\obj\Debug\net6.0\path.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\path\obj\Debug\net6.0\path.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\path\obj\Debug\net6.0\path.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\path\bin\Debug\net6.0\path.exe
+C:\01- BKP\Devops\CSharp\Exemplos\path\bin\Debug\net6.0\path.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\path\bin\Debug\net6.0\path.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\path\bin\Debug\net6.0\path.dll
+C:\01- BKP\Devops\CSharp\Exemplos\path\bin\Debug\net6.0\path.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\path\obj\Debug\net6.0\path.dll
+C:\01- BKP\Devops\CSharp\Exemplos\path\obj\Debug\net6.0\refint\path.dll
+C:\01- BKP\Devops\CSharp\Exemplos\path\obj\Debug\net6.0\path.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\path\obj\Debug\net6.0\path.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\path\obj\Debug\net6.0\ref\path.dll

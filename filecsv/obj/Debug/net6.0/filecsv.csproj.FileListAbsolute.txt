@@ -1,0 +1,15 @@
+C:\01- BKP\Devops\CSharp\Exemplos\filecsv\bin\Debug\net6.0\filecsv.exe
+C:\01- BKP\Devops\CSharp\Exemplos\filecsv\bin\Debug\net6.0\filecsv.deps.json
+C:\01- BKP\Devops\CSharp\Exemplos\filecsv\bin\Debug\net6.0\filecsv.runtimeconfig.json
+C:\01- BKP\Devops\CSharp\Exemplos\filecsv\bin\Debug\net6.0\filecsv.dll
+C:\01- BKP\Devops\CSharp\Exemplos\filecsv\bin\Debug\net6.0\filecsv.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\filecsv\obj\Debug\net6.0\filecsv.csproj.AssemblyReference.cache
+C:\01- BKP\Devops\CSharp\Exemplos\filecsv\obj\Debug\net6.0\filecsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\01- BKP\Devops\CSharp\Exemplos\filecsv\obj\Debug\net6.0\filecsv.AssemblyInfoInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\filecsv\obj\Debug\net6.0\filecsv.AssemblyInfo.cs
+C:\01- BKP\Devops\CSharp\Exemplos\filecsv\obj\Debug\net6.0\filecsv.csproj.CoreCompileInputs.cache
+C:\01- BKP\Devops\CSharp\Exemplos\filecsv\obj\Debug\net6.0\filecsv.dll
+C:\01- BKP\Devops\CSharp\Exemplos\filecsv\obj\Debug\net6.0\refint\filecsv.dll
+C:\01- BKP\Devops\CSharp\Exemplos\filecsv\obj\Debug\net6.0\filecsv.pdb
+C:\01- BKP\Devops\CSharp\Exemplos\filecsv\obj\Debug\net6.0\filecsv.genruntimeconfig.cache
+C:\01- BKP\Devops\CSharp\Exemplos\filecsv\obj\Debug\net6.0\ref\filecsv.dll
